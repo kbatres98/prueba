@@ -1,4 +1,6 @@
 ﻿namespace proyectto_final
+
+//kevin estoy haciendo comentarios 0947
 {
     partial class Form1
     {
