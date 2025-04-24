@@ -46,16 +46,114 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ForAyuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForAyuda.Designer.cs">
+      <DependentUpon>ForAyuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForCategoria.Designer.cs">
+      <DependentUpon>ForCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForCompra.Designer.cs">
+      <DependentUpon>ForCompra.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForModOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForModOrden.Designer.cs">
+      <DependentUpon>ForModOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForROl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForROl.Designer.cs">
+      <DependentUpon>ForROl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmlistadoP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmlistadoP.Designer.cs">
+      <DependentUpon>FrmlistadoP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmlistadoPrve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmlistadoPrve.Designer.cs">
+      <DependentUpon>FrmlistadoPrve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOrden.Designer.cs">
+      <DependentUpon>FrmOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProveedores.Designer.cs">
+      <DependentUpon>FrmProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventarioDBDataSet.cs">
+      <DependentUpon>InventarioDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="InventarioDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InventarioDBDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ForAyuda.resx">
+      <DependentUpon>ForAyuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForCategoria.resx">
+      <DependentUpon>ForCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForCompra.resx">
+      <DependentUpon>ForCompra.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForModOrden.resx">
+      <DependentUpon>ForModOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForROl.resx">
+      <DependentUpon>ForROl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmlistadoP.resx">
+      <DependentUpon>FrmlistadoP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmlistadoPrve.resx">
+      <DependentUpon>FrmlistadoPrve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOrden.resx">
+      <DependentUpon>FrmOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProveedores.resx">
+      <DependentUpon>FrmProveedores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -66,6 +164,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="InventarioDBDataSet.xsc">
+      <DependentUpon>InventarioDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="InventarioDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InventarioDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="InventarioDBDataSet.xss">
+      <DependentUpon>InventarioDBDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -1,0 +1,20 @@
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\bin\Debug\proyectto final.exe.config
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\bin\Debug\proyectto final.exe
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\bin\Debug\proyectto final.pdb
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto final.csproj.AssemblyReference.cache
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.Form1.resources
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.Properties.Resources.resources
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto final.csproj.GenerateResource.cache
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto final.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto final.exe
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto final.pdb
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.FrmListadoP.resources
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.FrmlistadoPrve.resources
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.FrmProveedores.resources
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.frmOrden.resources
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.Form2.resources
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.ForAyuda.resources
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.ForCategoria.resources
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.ForROl.resources
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.ForCompra.resources
+C:\Users\Kevin Batres\Desktop\L3\Ejercicio#3-Calculadora\prueba\proyectto final\obj\Debug\proyectto_final.ForModOrden.resources
